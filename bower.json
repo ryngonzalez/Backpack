@@ -1,0 +1,25 @@
+{
+  "name": "Backpack",
+  "version": "0.0.1",
+  "authors": [
+    "ryngonzalez <ryan@ionizedmedia.com>"
+  ],
+  "description": "A lightweight SASS toolkit.",
+  "main": "src/backpack.scss",
+  "keywords": [
+    "SCSS",
+    "SASS",
+    "CSS",
+    "Stylesheet"
+  ],
+  "license": "MIT",
+  "homepage": "ryngonzalez.github.io/backpack",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
