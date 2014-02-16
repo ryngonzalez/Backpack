@@ -14,7 +14,7 @@
   ],
   "license": "MIT",
   "homepage": "ryngonzalez.github.io/backpack",
-  "private": true,
+  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",
