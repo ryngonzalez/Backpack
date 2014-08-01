@@ -1,11 +1,35 @@
 {
   "name": "Backpack",
-  "version": "0.0.1",
+  "version": "0.0.2 ",
   "authors": [
     "ryngonzalez <ryan@ionizedmedia.com>"
   ],
   "description": "A lightweight SASS toolkit.",
-  "main": "src/backpack.scss",
+  "main": [
+    "src/backpack.scss",
+    "src/utils/_animation.scss",
+    "src/utils/_border-radius.scss",
+    "src/utils/_clearfix.scss",
+    "src/utils/_flexbox.scss",
+    "src/utils/_form.scss",
+    "src/utils/_gradient.scss",
+    "src/utils/_hairline.scss",
+    "src/utils/_hidden.scss",
+    "src/utils/_index.scss",
+    "src/utils/_keyframes.scss",
+    "src/utils/_layout.scss",
+    "src/utils/_media-query.scss",
+    "src/utils/_no-select.scss",
+    "src/utils/_positioning.scss",
+    "src/utils/_rem.scss",
+    "src/utils/_reset.scss",
+    "src/utils/_rotate.scss",
+    "src/utils/_sizing.scss",
+    "src/utils/_sticky.scss",
+    "src/utils/_truncate.scss",
+    "src/utils/_truncate.scss",
+    "src/utils/_vendor.scss"
+  ],
   "keywords": [
     "SCSS",
     "SASS",
